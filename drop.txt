@@ -1,4 +1,5 @@
 0.0.0.0 adservice.google.com
+0.0.0.0 analytics.google.com
 0.0.0.0 apt.releases.hashicorp.com
 0.0.0.0 ark.intel.com
 0.0.0.0 bbc.com
