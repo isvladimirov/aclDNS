@@ -12,6 +12,6 @@
 0.0.0.0 play.google.com
 0.0.0.0 rutracker.net
 0.0.0.0 star.c10r.facebook.com
-:: analytics.google.com
-:: wwww.google.com
-:: google.com
+::1 analytics.google.com
+::1 wwww.google.com
+::1 google.com
